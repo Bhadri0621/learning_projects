@@ -125,7 +125,7 @@ Deep Learning | Machine Learning | Computer Vision
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/homepage.png)
 
 ### Prediction Result
 
